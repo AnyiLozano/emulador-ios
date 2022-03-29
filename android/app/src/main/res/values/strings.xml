@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">bubble-shooter</string>
+    <string name="title_activity_main">bubble-shooter</string>
+    <string name="package_name">com.bubble.www</string>
+    <string name="custom_url_scheme">com.bubble.www</string>
+</resources>
